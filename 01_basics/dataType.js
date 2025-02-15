@@ -31,6 +31,11 @@ console.log(hometown)
 console.log(Skills)
 console.log(StudentProfile)
 
+// Insted of writing console.log to many times, we can also use console.table
+console.table([name, age, isPaid, favouriteClass, hometown])
+console.table([Skills])
+console.table([StudentProfile])
+
 
 // to determine the type of variable
 console.log(typeof name)
