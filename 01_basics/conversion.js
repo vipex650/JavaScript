@@ -38,3 +38,6 @@ console.log(FullName)
 let fullname = firstName + " " + LastName;  // Anuj Gupta
 console.log(fullname)
 
+let message = "Anuj@google.com"
+console.log(message)  // Anuj@google.com
+console.log(message.toLowerCase()) // anuj@google.com
